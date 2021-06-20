@@ -1,7 +1,7 @@
 {
-    "name": "Quick Mentions",
-    "description": "Adds a button to the toolbar to quickly mention someone.",
+    "name": "Chat html",
+    "description": "Load html straight into chat.",
     "version": "1.0.0",
-    "author": "Swishilicous",
+    "author": "Doggybootsy",
     "license": "MIT"
 }
